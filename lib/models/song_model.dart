@@ -13,20 +13,20 @@ class Song {
 
   static List<Song> song = [
     Song(
-      title: "Glass",
-      description: "Glass",
+      title: "Koman",
+      description: "Raim Laode",
       url: "assets/music/music1.mp3",
       coverUrl: "assets/images/music1.jpg",
     ),
     Song(
-      title: "Illusions",
-      description: "Illusions",
+      title: "Flower",
+      description: "Jisoo - Flower",
       url: "assets/music/music2.mp3",
       coverUrl: "assets/images/music2.png",
     ),
     Song(
-      title: "Pray",
-      description: "Pray",
+      title: "Cupid",
+      description: "Fifty Fifty - Cupid",
       url: "assets/music/music3.mp3",
       coverUrl: "assets/images/music3.png",
     ),
