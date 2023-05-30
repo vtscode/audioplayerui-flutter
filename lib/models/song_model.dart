@@ -15,20 +15,20 @@ class Song {
     Song(
       title: "Glass",
       description: "Glass",
-      url: "assets/music/glass.mp3",
-      coverUrl: "assets/images/glass.jpg",
+      url: "assets/music/music1.mp3",
+      coverUrl: "assets/images/music1.jpg",
     ),
     Song(
       title: "Illusions",
       description: "Illusions",
-      url: "assets/music/illusions.mp3",
-      coverUrl: "assets/images/illusions.jpg",
+      url: "assets/music/music2.mp3",
+      coverUrl: "assets/images/music2.png",
     ),
     Song(
       title: "Pray",
       description: "Pray",
-      url: "assets/music/pray.mp3",
-      coverUrl: "assets/images/pray.jpg",
+      url: "assets/music/music3.mp3",
+      coverUrl: "assets/images/music3.png",
     ),
   ];
 }
